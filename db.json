@@ -1,8 +1,15 @@
 {
-  "posts": [
+  "1": [
     {
       "id": 1,
       "title": "Salazar"
     }
-  ]
+  ],
+     "2":[
+      {
+         "id":2,
+         "userID":"Rowena",
+         "Title":"Ravenclaw"
+      }
+   ]
 }
