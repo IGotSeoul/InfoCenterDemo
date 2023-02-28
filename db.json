@@ -6,7 +6,7 @@
   ],
   "comments": [
     { "id": 1, "body": "Hello", "postId": 1 },
-    { "id": 2, "body": Goodbye "Goodbye", "postId": 1 }
+    { "id": 2, "body": "Goodbye", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
