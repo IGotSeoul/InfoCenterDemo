@@ -1,9 +1,11 @@
 {
-   "1":[
-      {
-         "id":1,
-         "userID":"Godric",
-         "Title":"Gryffindor"
-      }
-   ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
