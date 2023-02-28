@@ -5,26 +5,5 @@
          "userID":"Godric",
          "Title":"Gryffindor"
       }
-   ],
-   "2":[
-      {
-         "id":2,
-         "userID":"Rowena",
-         "Title":"Ravenclaw"
-      }
-   ],
-   "3":[
-      {
-         "id":3,
-         "userID":"Salazar",
-         "Title":"Slytherin"
-      }
-   ],
-   "4":[
-      {
-         "id":4,
-         "userID":"Hufflepuff",
-         "Title":"Helga"
-      }
    ]
 }
