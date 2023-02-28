@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "Demo 1": "Post 1" },
-    { "id": 2, "Demo 2": "Post 2" },
-    { "id": 3, "Demo 1": "Post 3" }
+  "1": [
+    { "id": 1, "userID": "Godric", "Title": "Gryffindor" },
   ],
-  "comments": [
-    { "id": 1, "body": "Hello", "postId": 1 },
-    { "id": 2, "body": "Goodbye", "postId": 1 }
+  "2": [
+    { "id": 2, "userID": "Rowena", "Title": "Ravenclaw" },
   ],
-  "profile": {
-    "name": "typicode"
+  "3": {
+    { "id": 3, "userID": "Salazar", "Title": "Slytherin" },
+  ],
+  "4": {
+    { "id": 4, "userID": "Hufflepuff", "Title": "Helga" },
   }
 }
